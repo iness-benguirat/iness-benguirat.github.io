@@ -11,7 +11,7 @@ Course Description: In this course, students will engage with recent theoretical
 of clean energy transitions from a global perspective. Topics include fossil fuel extraction, critical minerals and metals, renewable and green technologies, 
 and electricity generation, transmission, and consumption. Cross-cutting themes include energy poverty and development, industrial and climate policies, 
 environmental impacts, and political economy.  
-[Syllabus](/files/Syllabus_Global_Energy_Transitions.pdf){:target="_blank"} 
+[Syllabus](/files/Syllabus_GlobalEnergyTransitions.pdf){:target="_blank"} 
 <br/>
 
 **Economics Methodology: Praxis and Practice** (_Masters/PhD_) <br/> 
