@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url: /files/Katovich_CV.pdf
 
-    - title: "Teaching"
-    url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Data and Code"
     url: /datacode/    
