@@ -14,6 +14,12 @@ interests drive land-use change in the Amazon.  </font>
 <br/>
 </details>
 
+**Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) (_Conditionally Accepted at JAERE_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
+<details><summary>Click for Abstract</summary>
+<font size="-1">Sectoral expansions and contractions require labor reallocation between declining and booming sectors. Which types of workers gain and lose during these transitions? Using linked employer-employee panel data from Brazil spanning a full boom-bust cycle in its oil sector, we find that timing of labor market entry is critical. Only highly educated workers hired at the onset of a boom reap significant earnings and employment benefits. Low-education workers and later entrants experience earnings and employment penalties, reflecting a last-in, first-out pattern. Skilled professional occupations insulate high-education early entrants during downturns, while a boom in sector-specific education erodes earnings of later entrants.</font>
+<br/>
+</details>
+
 **Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> 
 Journal of Development Economics, Vol. 166 (2024)<br/>
 [Published Version](https://www.sciencedirect.com/science/article/pii/S0304387823001608?dgcid=SSRN_redirect_SD&ssrnid=4359168){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/10688029){:target="_blank"} 
@@ -53,12 +59,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 </details> <br/>
 
 # **Working Papers**<br/>
-
-**Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) (_R&R at JAERE_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
-<details><summary>Click for Abstract</summary>
-<font size="-1">Sectoral expansions and contractions require labor reallocation between declining and booming sectors. Which types of workers gain and lose during these transitions? Using linked employer-employee panel data from Brazil spanning a full boom-bust cycle in its oil sector, we find that timing of labor market entry is critical. Only highly educated workers hired at the onset of a boom reap significant earnings and employment benefits. Low-education workers and later entrants experience earnings and employment penalties, reflecting a last-in, first-out pattern. Skilled professional occupations insulate high-education early entrants during downturns, while a boom in sector-specific education erodes earnings of later entrants.</font>
-<br/>
-</details>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Pipelines_WorkingPaper.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
