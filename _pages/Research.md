@@ -68,6 +68,13 @@ tel diversification into gas theft was concentrated in places neighboring oil pi
 </details> 
 <br/>
 
+**Comparative Local and Multinational Advantages in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Working Paper](/files/DKR_Global_Mining_011525.pdf){:target="_blank"}<br/> 
+<details><summary>Click for Abstract</summary>
+<font size="-1"> Empirical evidence and economic theory suggest that multinational firms are more productive than their local counterparts. In the global mining industry, however, firms frequently operate in contexts characterized by weak institutions, corruption, and conflict. We test whether these factors attenuate the multinational advantage using a database of corporate ownership changes for 35,567 commercial mines between 2000-2022. Consistent with the literature, event-study estimates reveal that output declines by 8% after mines are taken over by local firms. Localized assets also exhibit higher air pollution, suggesting lower operational quality. However, this local disadvantage reverses in poorly governed settings, such that in the weakest states, local firms have a production advantage of 8%. Local firms also generate greater economic benefits for local communities, particularly in weak states. Economic activity, urbanization, and non-agricultural employment increase around mines following local takeover, highlighting stronger linkages of local firms and suggesting that divestment can trigger structural transformation. </font>
+<br/>
+</details> 
+<br/>
+
 # **Work in Progress**<br/>
 
 **Do Local Content Requirements Promote Industrialization? Evidence from the Brazilian Oil Industry** <br/>
@@ -83,13 +90,11 @@ tel diversification into gas theft was concentrated in places neighboring oil pi
 <br/>
 </details> 
 
-**Is There a “Local Advantage” in the Global Mining Industry?** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/)_)
-
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Dynamic Adaptation to Sanctions: Evidence from Russian Oil Fields**
 
-**Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
+**Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
  
 
 
