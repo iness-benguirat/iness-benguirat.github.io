@@ -90,6 +90,8 @@ tel diversification into gas theft was concentrated in places neighboring oil pi
 <br/>
 </details> 
 
+**Structural Transformation and Politics: Evidence from Brazil's Agrobusiness Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
+
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Dynamic Adaptation to Sanctions: Evidence from Russian Oil Fields**
