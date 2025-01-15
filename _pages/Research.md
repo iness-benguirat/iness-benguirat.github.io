@@ -66,7 +66,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 tel diversification into gas theft was concentrated in places neighboring oil pipelines – where spatial substitution was easiest – and driven most strongly by cartels previously specialized in oil theft. While the crackdown temporarily reduced oil pipeline thefts, it increased local fuel prices and failed to reduce homicides or cartel presence in targeted areas. Findings highlight the pitfalls of combating organized crime through crackdowns, especially in the presence of opportunities for appropriation created by energy infrastructure. </font>
 <br/>
 </details> 
-<br/>
 
 **Comparative Local and Multinational Advantages in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Working Paper](/files/DKR_Global_Mining_011525.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
