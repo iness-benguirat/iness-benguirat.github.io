@@ -71,7 +71,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <font size="-1"> Empirical evidence and economic theory suggest multinational firms are more productive than their local counterparts. What explains the persistence of local firms and the recent surge in local content policies? Using a global database of corporate ownership changes for 35,567 commercial mines between 2000-2022, we test whether local firms have a comparative advantage in dealing with weak institutions, corruption, and conflict, which could attenuate or reverse the multinational advantage. We confirm that, on average, output declines by 8% after mines are taken over by local firms. Localized assets also exhibit higher air pollution, indicating lower operational quality. However, in states with weak governance, localization increases mine output by 8%. Local firms also generate more economic activity, urbanization, and non-agricultural employment around mines, indicating stronger local linkages. While multinational mining firms exhibit increasing returns to scale, local firms exhibit decreasing returns, suggesting they may grow based on their ability to navigate institutional weaknesses rather than their productivity. Results highlight the role of institutions in determining relative advantages of multinational versus local firms.  </font>
 <br/>
 </details> 
-<br/>
 
 **Critical mining contributes to economic growth and forest loss in high-corruption settings** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
@@ -79,6 +78,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 responsiveness to price changes. Results underscore trade-offs and distributional consequences involved in expanding critical mineral supply for the clean energy transition. </font>
 <br/>
 </details> 
+<br/>
 
 # **Work in Progress**<br/>
 
