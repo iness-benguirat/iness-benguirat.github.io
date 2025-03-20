@@ -60,7 +60,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 # **Working Papers**<br/>
 
-**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
+**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
 <font size="-1"> Oil theft from pipelines funds armed criminal groups around the world. We show that a 2019 crackdown on oil theft in Mexico prompted criminal groups to diversify into gas theft, a more technologically challenging and dangerous activity. This adaptive response to enforcement increased cartel presence by 18% and homicide rates by 19% in municipalities hosting gas pipeline infrastructure. Cartel diversification into gas theft was concentrated in places neighboring oil pipelines and driven most strongly by cartels previously specialized in oil theft. The emergence of large-scale gas theft in Mexico presages threats to gas infrastructure worldwide and reveals how law enforcement crackdowns can provoke criminal diversification into spatially and technologically related activities – spreading violence into previously unaffected areas. </font>
 <br/>
@@ -72,6 +72,13 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <br/>
 </details> 
 <br/>
+
+**Critical mining contributes to economic growth and forest loss in high-corruption settings** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
+<details><summary>Click for Abstract</summary>
+<font size="-1"> Critical minerals and metals are essential for the clean energy transition, but their extraction raises concerns over local environmental and socioeconomic impacts. We combine a global registry of 9,472 critical mineral and metal mines with geospatial data and leverage exogenous commodity price variations to causally identify local mining impacts. Price booms for critical minerals and metals increase both deforestation and economic activity around mines, revealing an environment-growth tradeoff. The cumulative increase in critical commodity prices between 2000-2022 reduced forest cover by 3.6% and raised economic activity by 6% near mining sites. These effects are concentrated in areas with high corruption and where mines are operated by firms from poorly governed countries. This suggests that environmental and anti-corruption regulations mitigate deforestation but also limit local economic benefits by constraining operators’
+responsiveness to price changes. Results underscore trade-offs and distributional consequences involved in expanding critical mineral supply for the clean energy transition. </font>
+<br/>
+</details> 
 
 # **Work in Progress**<br/>
 
