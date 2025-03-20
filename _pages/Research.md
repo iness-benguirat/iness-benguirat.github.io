@@ -72,7 +72,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <br/>
 </details> 
 
-**Critical mining contributes to economic growth and forest loss in high-corruption settings** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
+**Critical Mining Contributes to Economic Growth and Forest Loss in High-Corruption Settings** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
 <font size="-1"> Critical minerals and metals are essential for the clean energy transition, but their extraction raises concerns over local environmental and socioeconomic impacts. We combine a global registry of 9,472 critical mineral and metal mines with geospatial data and leverage exogenous commodity price variations to causally identify local mining impacts. Price booms for critical minerals and metals increase both deforestation and economic activity around mines, revealing an environment-growth tradeoff. The cumulative increase in critical commodity prices between 2000-2022 reduced forest cover by 3.6% and raised economic activity by 6% near mining sites. These effects are concentrated in areas with high corruption and where mines are operated by firms from poorly governed countries. This suggests that environmental and anti-corruption regulations mitigate deforestation but also limit local economic benefits by constraining operators’
 responsiveness to price changes. Results underscore trade-offs and distributional consequences involved in expanding critical mineral supply for the clean energy transition. </font>
