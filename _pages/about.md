@@ -14,8 +14,8 @@ I completed my PhD at [KU Leuven](https:https://www.kuleuven.be/english/kuleuven
 
 
 <strong/> Research Interests <strong/> 
--Privacy by Design
--Anonymous Communication Networks
+- Privacy by Design
+- Anonymous Communication Networks
 - Traffic Analysis
 - Socio-Technical 
 
