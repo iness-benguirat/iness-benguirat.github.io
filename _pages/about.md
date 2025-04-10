@@ -6,12 +6,11 @@ author_profile: true
 
 ---
 
-Welcome! I am an Assistant Professor of Environmental and Resource Economics at the [University of Connecticut](https://are.uconn.edu/). 
+Welcome! I am a Postdoctoral researcher at [Université Libre de Bruxelles](https://www.ulb.be/) working with Prof. [Jan Tobias Muehlberg](https://www.beetzsee.de/)) and  [Jean-Michel Dricot](https://cybersecurity.ulb.ac.be/jean-michel-dricot/). 
 <br/>
 
-My research focuses on environmental and resource economics, development economics, and political economy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
-
-Previously, I was a Postdoctoral Scholar at the [University of Geneva](https://www.unige.ch/gsem/en/research/institutes/iee/) and a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/), in Brazil. I earned my PhD in Agricultural and Applied Economics from the [University of Wisconsin-Madison](https://aae.wisc.edu/) in 2022. 
+My research focuses on privacy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
+I completed my PhD at [KU Leuven](https:https://www.kuleuven.be/english/kuleuven) in 2024 under the supervision of Prof. [Claudia Diaz]([https:https://www.kuleuven.be/english/kuleuven](https://homes.esat.kuleuven.be/~cdiaz/) in [COSIC](https://www.esat.kuleuven.be/cosic/) Research Group.
 
 
 
