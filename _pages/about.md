@@ -13,7 +13,11 @@ My research focuses on privacy. <br/>
 I completed my PhD at [KU Leuven](https:https://www.kuleuven.be/english/kuleuven) in 2024 under the supervision of Prof. [Claudia Diaz](https://homes.esat.kuleuven.be/~cdiaz/) in [COSIC](https://www.esat.kuleuven.be/cosic/) Research Group.
 
 
-
+<strong/> Research Interests <strong/> 
+-Privacy by Design
+-Anonymous Communication Networks
+- Traffic Analysis
+- Socio-Technical 
 
 
 
