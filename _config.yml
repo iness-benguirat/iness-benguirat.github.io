@@ -69,17 +69,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erik Katovich"
-  avatar           : "Erik_Headshot_2021.jpg"
-  bio              : "Assistant Professor at University of Connecticut"
-  location         : "Storrs, Connecticut"
-  googlescholar    : "https://scholar.google.com/citations?user=gxY4m6YAAAAJ&hl=en"
-  email            : "erik.katovich@uconn.edu"
-  researchgate     : #"https://www.researchgate.net/profile/Erik_Katovich"
-  github           : "ekatovich"
-  linkedin         : #"https://www.linkedin.com/in/erik-katovich-a20994160/"
-  twitter          : "@ErikKatovich"
-  orcid            : "https://orcid.org/0000-0001-9974-2992"
+  name             : "Iness Ben Guirat"
+  avatar           : "iness-scaled.jpeg"
+  bio              : "Postdoctoral Researcher"
+  location         : "Brussels, Belgium"
+  googlescholar    : "https://scholar.google.com/citations?user=9DrTw5MAAAAJ&hl=en&oi=ao"
+  email            : "iness.ben.guirat@ulb.be"
+  linkedin         : #"https://www.linkedin.com/in/iness-ben-guirat-44844371/"
+  twitter          : "@InessBeng"
+  orcid            : "https://orcid.org/0000-0002-8766-594X"
 
 # Reading Files
 include:
@@ -174,7 +172,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Brussels/Belgium # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
