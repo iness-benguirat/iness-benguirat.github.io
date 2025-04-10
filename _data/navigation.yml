@@ -8,10 +8,7 @@ main:
     url: /files/Katovich_CV.pdf
 
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Data and Code"
-    url: /datacode/    
+    url: /teaching/  
     
   - title: "Contact"
     url: /contact/
