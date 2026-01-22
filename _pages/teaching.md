@@ -24,8 +24,8 @@ I have supervised several Master’s students and am currently co-supervising wi
 
 - Horac Botond Horvath & Muhammed Siddique — IoT Device Fingerprinting based on metadata: Classification, Threat Models and Countermeasures
 - Antoine Colet — Performance Analysis of a Mixnet Architecture Using Shadow Simulation
-- Alex Ternav - The analysis of personal information leakage on the online forms
-- Oscar Perez Castillo - Evaluating a Mixnet Based on Threshold Cryptography Regarding its Resilience-Cost Trade-Off
+- Alex Ternav — The analysis of personal information leakage on the online forms
+- Oscar Perez Castillo  — Evaluating a Mixnet Based on Threshold Cryptography Regarding its Resilience-Cost Trade-Off
 
 ## PhD Students (Co-supervision)
 
