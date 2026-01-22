@@ -7,27 +7,14 @@ author_profile: true
 # **Courses**<br/> 
 
 **Advanced Privacy Technologies** (Main Lecturer) <br/> 
-Course Description: In this course, students will engage with recent theoretical and empirical research on the economics 
-of clean energy transitions from a global perspective. Topics include fossil fuel extraction, critical minerals and metals, renewable and green technologies, 
-and electricity generation, transmission, and consumption. Cross-cutting themes include energy poverty and development, industrial and climate policies, 
-environmental impacts, and political economy.  
-[Syllabus](/files/Syllabus_GlobalEnergyTransitions.pdf){:target="_blank"} 
+Course Description: This course focuses on the modeling, design, and analysis of anonymous communication networks. It covers key design elements such as system architectures, network topologies and routing algorithms. Students study fundamental communication privacy properties, including anonymity and unlinkability, unobservability, and undetectability, and examine different classes of systems such as decryption and re-encryption mix networks, onion routing networks, and peer-to-peer networks. Finally, the course discusses open challenges related to the large-scale deployment of private communication systems.
+The course is strongly grounded in recent research and provides students with first-hand experience in reading scientific literature and developing and presenting their own research ideas.
 <br/>
 
 **Privacy Technologies** (Teaching Assistant) <br/> 
-Course Description: This course guides students through the process of writing an original research paper in applied economics. 
-The focus is on development of practical skills and professional practice, including generation of research ideas, literature review, 
-effective writing, causal inference tools, data visualization, reproducible coding, project management, effective presentation and 
-communication of research findings, research ethics, and peer feedback and review.
+Course Description: This course prepares engineering students to understand and address the privacy implications of modern electronic systems and services. Students learn to identify privacy concerns arising in various technical systems and to relate these concerns to design choices. The course introduces key privacy-enhancing technologies and their underlying principles, including e-voting, anonymity systems and cryptographic protocols. In addition to the technical perspective, the course addresses privacy as a societal and individual issue, covering legal rights, data protection principles, and practical tools for mitigating privacy risks in everyday digital services. 
 
 **Privacy and Big Data** (Teaching Assistant) <br/> 
-Course Description: This course guides students through the process of writing an original research paper in applied economics. 
-The focus is on development of practical skills and professional practice, including generation of research ideas, literature review, 
-effective writing, causal inference tools, data visualization, reproducible coding, project management, effective presentation and 
-communication of research findings, research ethics, and peer feedback and review.
-<br/>
-[Syllabus](/files/Syllabus_ARE_5203_6203.pdf){:target="_blank"} 
-
-
+This course introduces students to the privacy challenges of Big Data and AI, as well as to privacy-preserving techniques relevant to big data, including their underlying principles and limitations. The course also covers the legal and ethical frameworks governing the use of big data. By the end of the course, students will be able to conduct a privacy impact assessment of an application or service, identify privacy concerns from a technical perspective, and propose appropriate technical and organizational mitigation measures.
          
 
