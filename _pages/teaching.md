@@ -18,8 +18,8 @@ Course Description: This course prepares engineering students to understand and 
 This course introduces students to the privacy challenges of Big Data and AI, as well as to privacy-preserving techniques relevant to big data, including their underlying principles and limitations. The course also covers the legal and ethical frameworks governing the use of big data. By the end of the course, students will be able to conduct a privacy impact assessment of an application or service, identify privacy concerns from a technical perspective, and propose appropriate technical and organizational mitigation measures.
 <br/>      
 
-# **Supervision**<br/>
-I have supervised several Master’s students and am currently co-supervising with [Jan Tobias Mühlber https://cybersecurity.ulb.ac.be/jan-tobias-muhlberg/] two PhD students on topics related to privacy.
+# **Co-Supervision**<br/>
+I have co-supervised several Master’s students and am currently co-supervising with [Jan Tobias Mühlber https://cybersecurity.ulb.ac.be/jan-tobias-muhlberg/] two PhD students on topics related to privacy.
 ## Master’s Students
 
 - Horac Botond Horvath & Muhammed Siddique — IoT Device Fingerprinting based on metadata: Classification, Threat Models and Countermeasures
