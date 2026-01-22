@@ -5,13 +5,11 @@ permalink: /
 author_profile: true
 
 ---
-
-Welcome! I am a Postdoctoral researcher at [Université Libre de Bruxelles](https://www.ulb.be/) working with Prof. [Jan Tobias Muehlberg](https://www.beetzsee.de/)) and  [Jean-Michel Dricot](https://cybersecurity.ulb.ac.be/jean-michel-dricot/). 
+Welcome! I am a postdoctoral researcher at [Université Libre de Bruxelles](https://www.ulb.be/) ([École Polytechnique](https://polytech.ulb.be/)) since February 2024.
 <br/>
-
-My research focuses on privacy. <br/>
-I completed my PhD at [KU Leuven](https:https://www.kuleuven.be/english/kuleuven) in 2024 under the supervision of Prof. [Claudia Diaz](https://homes.esat.kuleuven.be/~cdiaz/) in [COSIC](https://www.esat.kuleuven.be/cosic/) Research Group.
-
+Previously, I was a PhD student at KU Leuven in the COSIC group under the supervision of  [Claudia Diaz](https://homes.esat.kuleuven.be/~cdiaz/) .
+<br/>
+My research focuses on privacy, particularly the evaluation and design of privacy networks with a focus on mixnet-based systems. I am currently funded by FNRS as a Chargé de Recherche for a three-year postdoctoral project, where I focus on the intersection of privacy and sociotechnical systems.
 
 <strong/> Research Interests <strong/> 
 - Privacy by Design
