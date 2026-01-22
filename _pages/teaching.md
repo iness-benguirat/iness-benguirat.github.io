@@ -29,7 +29,7 @@ I have co-supervised several Master’s students and am currently co-supervising
 - Alex Ternav — The analysis of personal information leakage on the online forms
 - Oscar Perez Castillo  — Evaluating a Mixnet Based on Threshold Cryptography Regarding its Resilience-Cost Trade-Off
 
-## PhD Students (Co-supervision)
+## PhD Students
 
 - Jason Kayembe — Environmental Impact of ICT
 - Apolline Zehner - Embedded Systems Security and Privacy-Enhancing Technologies
