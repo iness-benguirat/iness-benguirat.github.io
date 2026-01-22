@@ -10,6 +10,7 @@ Welcome! I am a postdoctoral researcher at [Université Libre de Bruxelles](http
 
 <br/>
 Previously, I was a PhD student at [KU Leuven](https://www.kuleuven.be/kuleuven/) in the [COSIC](https://www.esat.kuleuven.be/cosic/) group under the supervision of [Claudia Diaz](https://homes.esat.kuleuven.be/~cdiaz/).
+
 <br/>
 My main interest is in privacy. I have worked on the analysis and evaluation privacy at the network level. More broadly, I am interested in privacy engineering, peer-to-peer systems, and smart city infrastructures. I particularly enjoy reading and reflecting on the socio-technical aspects of privacy, perspectives that are reflected in my recent opinion paper ["Resistance Technoologies:Resistance Technologies: Moving Beyond Alternative Designs"](https://computingwithinlimits.org/2025/papers/limits2025-benguirat-resistance.pdf).
 <br/>
