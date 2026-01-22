@@ -1,3 +1,9 @@
+---
+permalink: /events/
+title: "Events"
+excerpt: "Events"
+author_profile: true
+---
 I have contributed to the research community by organizing and participating in academic and public events on privacy and sociotechnical issues. I have also served as a panelist, engaging in discussions that connect technical research with societal and policy perspectives.
 
 ## Selected Events
@@ -6,5 +12,5 @@ I have contributed to the research community by organizing and participating in 
 - **Co-organizer**: Doctoral summer school focused on sustainable ICT [SICT](https://www.sictdoctoralschool.com/)
 - **Co-organizer**: Cybersecurity funding workshop in collaboration with [NCC-be](https://ccb.belgium.be/nl/ncc)
 - **Panelist**: Digital Security and Threats Facing the MENA region”- United Nations Human Rights Council [UNHRC49](https://www.youtube.com/watch?v=ZWwbIdzxf48&t=3010s)
-- **Panelist**: Opening the Data of Money: Challenges and Opportunities for the Global South at [CPDP] (https://www.youtube.com/watch?v=30yNsSZaKpM)
+- **Panelist**: Opening the Data of Money: Challenges and Opportunities for the Global South at [CPDP](https://www.youtube.com/watch?v=30yNsSZaKpM)
 - **Panelist**: Resisting technology by building resilience through communities at [Privacy Camp](https://privacycamp.eu/)
