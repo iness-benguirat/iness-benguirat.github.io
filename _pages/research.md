@@ -6,6 +6,10 @@ author_profile: true
 ---
 Here is my [dblp](https://dblp.org/pid/217/7365.html). Below is a list of my most recent publications. 
 ## Publications
+**Iness Ben Guirat**, Jan Tobias Muehlberg.
+Resistance Technologies: Moving Beyond Alternative Designs. LIMITS, 2025.
+[[pdf]](https://computingwithinlimits.org/2025/papers/limits2025-benguirat-resistance.pdf)
+
 **Iness Ben Guirat**, Claudia Díaz.
 Mixnet Optimization Methods. PoPETs, 2022(3), pp. 456–477.
 [[pdf]](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/journal/3465) · DOI: 10.56553/popets-2022-0081
@@ -28,17 +32,15 @@ Privacy and Social Movements. INSCI Workshops, 2019.
 
 **Iness Ben Guirat**, Devashish Gosain, Claudia Díaz.
 Mixim: Mixnet Design Decisions and Empirical Evaluation. WPES, 2021.
-[[pdf]] · DOI: 10.1145/3463676.3485613
-
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3463676.3485613) · DOI: 10.1145/3463676.3485613
 
 Jason Kayembe, **Iness Ben Guirat**, Jan Tobias Muehlberg.
 Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions. LOCO, 2024.
-[[pdf]]
+[[pdf]](https://www.sicsa.ac.uk/wp-content/uploads/2024/11/LOCO2024_paper_36.pdf)
 
 Apolline Zehner, **Iness Ben Guirat**, Jan Tobias Muehlberg.
 Privacy-Enhancing Technologies Against Physical-Layer and Link-Layer Device Tracking: Trends, Challenges, and Future Directions. IMPACT, 2025.
-[[pdf]]
+[[pdf]](https://www.ndss-symposium.org/ndss-paper/auto-draft-606/)
 
-**Iness Ben Guirat**, Jan Tobias Muehlberg.
-Resistance Technologies: Moving Beyond Alternative Designs. LIMITS, 2025.
-[[pdf]]
+
+
