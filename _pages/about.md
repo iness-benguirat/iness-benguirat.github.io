@@ -9,7 +9,7 @@ Welcome! I am a postdoctoral researcher at [Université Libre de Bruxelles](http
 <br/>
 Previously, I was a PhD student at [KU Leuven](https://www.kuleuven.be/kuleuven/) in the [COSIC](https://www.esat.kuleuven.be/cosic/) group under the supervision of  [Claudia Diaz](https://homes.esat.kuleuven.be/~cdiaz/).
 <br/>
-My research focuses on privacy, particularly the evaluation and design of privacy networks with a focus on mixnet-based systems. I am currently funded by FNRS as a Chargé de Recherche for a three-year postdoctoral project, where I focus on the intersection of privacy and sociotechnical systems.
+My research focuses on privacy, particularly the evaluation and design of privacy networks with a focus on mixnet-based systems. I am currently funded by [FNRS](https://www.frs-fnrs.be/en/) as a Chargé de Recherche for a three-year postdoctoral project, where I focus on the intersection of privacy and sociotechnical systems.
 
 <strong/> Research Interests <strong/> 
 - Privacy by Design
