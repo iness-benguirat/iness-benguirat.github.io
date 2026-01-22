@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 
 ---
-# Iness Ben Guirat
 
 <br/>
 Welcome! I am a postdoctoral researcher at [Université Libre de Bruxelles](https://www.ulb.be/) ([École Polytechnique](https://polytech.ulb.be/)) since February 2024. I am currently funded by the [FNRS](https://www.frs-fnrs.be/en/) as a *Chargé de Recherche* for a three-year postdoctoral project.
