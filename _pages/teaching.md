@@ -14,6 +14,8 @@ The course is strongly grounded in recent research and provides students with fi
 **Privacy Technologies** (Teaching Assistant) <br/> 
 Course Description: This course prepares engineering students to understand and address the privacy implications of modern electronic systems and services. Students learn to identify privacy concerns arising in various technical systems and to relate these concerns to design choices. The course introduces key privacy-enhancing technologies and their underlying principles, including e-voting, anonymity systems and cryptographic protocols.
 <br/>
+
+
 **Privacy and Big Data** (Teaching Assistant) <br/> 
 This course introduces students to the privacy challenges of Big Data and AI, as well as to privacy-preserving techniques relevant to big data, including their underlying principles and limitations. The course also covers the legal and ethical frameworks governing the use of big data. By the end of the course, students will be able to conduct a privacy impact assessment of an application or service, identify privacy concerns from a technical perspective, and propose appropriate technical and organizational mitigation measures.
 <br/>      
